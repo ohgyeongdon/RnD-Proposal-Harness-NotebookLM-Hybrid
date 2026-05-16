@@ -24,7 +24,7 @@ Research should be about microscopes and accelerators, not endless forms and spr
 - **Deep Context**: Leverages Gemini's 2M token window to maintain deep logical consistency across a 60-100 page proposal.
 - **Visual Proof**: Automatic browser recording (WebP) of the research process to ensure data integrity and transparency.
 
-### 2. 🏻 AX v2.0 Administrative Rigor
+### 2. 🏛️ AX v2.0 Administrative Rigor
 - **Multi-Agent Orchestration**: Sequential context relay between specialized agent teams (Context, Researcher, Architect, Writer, Reviewer).
 - **Itemized Writing Standard**: Enforces the strict "Ga-jo-sik" (개조식) writing style required by government agencies.
 - **Sentinel Monitoring**: Real-time monitoring of agent states, token usage, and administrative constraints.
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Setup
-Edit .env file:
+Edit `.env` file:
 ```env
 SETUP_MODE=MANUAL # recommended for first run
 ANTIGRAVITY_TOKEN=your_token_here
@@ -82,13 +82,13 @@ This system is not a "finished product." It is a **living prototype**, a record 
 ---
 
 ## ▣ License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
 ## ▣ Author
 **Yeopjul (엽줄)** - *Visionary of R&D Automation*
-- Blog: https://yeopjul.tistory.com
+- Blog: [Yeopjul R&D Lab](https://yeopjul.tistory.com)
 - Project: [War Against the Paper Monster Series]
 
 ---
